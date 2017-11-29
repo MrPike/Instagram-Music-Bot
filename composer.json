@@ -1,0 +1,10 @@
+{
+    "require": {
+        "mgp25/instagram-php": "3.*",
+        "monolog/monolog": "1.*",
+        "gabordemooij/redbean": "dev-master"
+    },
+    "config": {
+    	"optimize-autoloader": true
+    }
+}
